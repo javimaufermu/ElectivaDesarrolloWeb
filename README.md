@@ -1,13 +1,13 @@
 # ElectivaDesarrolloWeb
-Header: El elemento <header> representa un contenedor para contenido introductorio o un conjunto de links de navegación.
+Header: El elemento header representa un contenedor para contenido introductorio o un conjunto de links de navegación.
 
-Section: La etiqueta <section> define una sección en un documento. 
+Section: La etiqueta section define una sección en un documento. 
 
-Footer: La etiqueta <footer> define un pie de página para un documento o sección.
+Footer: La etiqueta footer define un pie de página para un documento o sección.
 
-Nav: La etiqueta <nav> define un conjunto de links de navegación. No todos los links de un documento deben estar dentro de un elemento <nav>. El elemento <nav> está destinado solo para el bloque principal de enlaces de navegación. Los navegadores pueden utilizar este elemento para determinar si se debe omitir la representación inicial de este contenido.
+Nav: La etiqueta nav define un conjunto de links de navegación. No todos los links de un documento deben estar dentro de un elemento nav. El elemento nav está destinado solo para el bloque principal de enlaces de navegación. Los navegadores pueden utilizar este elemento para determinar si se debe omitir la representación inicial de este contenido.
 
-Aside: La etiqueta <aside> define algún contenido al lado del contenido en el que es puesto. El contenido <aside> a menudo es puesto como una barra lateral en un documento.
+Aside: La etiqueta aside define algún contenido al lado del contenido en el que es puesto. El contenido aside a menudo es puesto como una barra lateral en un documento.
 
 
 
