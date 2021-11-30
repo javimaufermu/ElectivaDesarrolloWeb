@@ -1,6 +1,6 @@
 # ElectivaDesarrolloWeb
 
-En este archivo se muestra la respuesta a las consultas planteadas en la guía del Taller 1
+En este archivo se muestran las respuestas a las consultas planteadas en la guía del Taller 1
 
 Header: El elemento header representa un contenedor para contenido introductorio o un conjunto de links de navegación.
 
