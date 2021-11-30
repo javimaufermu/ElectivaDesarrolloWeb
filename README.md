@@ -1,4 +1,7 @@
 # ElectivaDesarrolloWeb
+
+En este archivo se muestra la respuesta a las consultas planteadas en la guía del Taller 1
+
 Header: El elemento header representa un contenedor para contenido introductorio o un conjunto de links de navegación.
 
 Section: La etiqueta section define una sección en un documento. 
@@ -12,4 +15,5 @@ Aside: La etiqueta aside define algún contenido al lado del contenido en el que
 
 
 Diferencia entre px, em y %:
+
 Pixel (px) es una medida estática, mientras que porcentaje (%) y em son medidas relativas. El tamaño de un em o % depende de su padre. Si el tamaño del texto del body es 16 px, entonces 150% o 1.5 em serán 24 px (1.5*16).
